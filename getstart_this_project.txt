@@ -1,0 +1,2 @@
+1. npm init -y // tsim project nos
+2. npm install bcrypt cookie-session ejs express-validator mysql2 nodemon
